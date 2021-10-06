@@ -26,5 +26,4 @@ describe Fizzbuzz do
     it { subject.calculate(75).should eq 'Github' }
     it { subject.calculate(77).should eq 'Github' }
   end
-
 end
